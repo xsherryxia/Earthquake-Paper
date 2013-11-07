@@ -9,9 +9,9 @@ Members Stats:
 
 | Name             | Year  |  Major(s) |Email|
 | -------------    |:------:| :-----: |:-----:|
-| Theresa Andrasfay (tandrasfay)|4th|Stats | tandrasfay@berk |
-| Jie Zhang| 4th |  Stats | jzhang980@berk |
-| Sherry Xia (xsherryxia)| 4th | Stats/Legal Studies | x_sherry_xia@berk|
+| <a href="https://github.com/tandrasfay">Theresa Andrasfay </a>(tandrasfay)|4th|Stats | tandrasfay@berk |
+| <a href="https://github.com/jzhang980">  Jie Zhang</a> (jzhang980)| 4th |  Stats | jzhang980@berk |
+| <a href="https://github.com/xsherryxia">Sherry Xia </a>(xsherryxia) | 4th | Stats/Legal Studies | x_sherry_xia@berk|
 
 
 
