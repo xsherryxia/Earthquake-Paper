@@ -13,7 +13,40 @@ Members Stats:
 | <a href="https://github.com/jzhang980">  Jie Zhang</a> (jzhang980)| 4th |  Stats | jzhang980@berk |
 | <a href="https://github.com/xsherryxia">Sherry Xia </a>(xsherryxia) | 4th | Stats/Legal Studies | x_sherry_xia@berk|
 
+S.M.A.R.T Goals
+===============
+1) SPECIFIC
 
+- Cache and send out the data to the analyzers and other groups 
+  - [CleanData1938-2013.csv](https://www.dropbox.com/s/ixyzveqr1hemuh5/CleanData1938-2013.csv)
+  - [Clean CSV Files for each year] (https://www.dropbox.com/sh/0w1nbuolmdceys1/CZXLepJxPJ)
+
+- For [Analyzers subgroup #2](https://github.com/taywon/ETAS_subgroup2) running the ETAS model in R specifically, we will try to convert the clear data into a "ppx". 
+   - [PPX](http://www.inside-r.org/packages/cran/spatstat/docs/ppx): a dataframe with spatio-temporal observations 
+   - In this case time, it is a dataframe containns long, lat, mag, mag.type, depth, ref, date, as well as a specified domain of data. 
+   - Examples: 20th century earthquakes [iran.quakes](http://www.inside-r.org/packages/cran/ETAS/docs/iran.quakes)
+               Earthquakes of Japan [jap.quakes](http://www.inside-r.org/packages/cran/ETAS/docs/jap.quakes)
+
+2) MEASURABLE
+
+- Figured out how to force-push a file on GitHub despite the file limit; therefore, other groups have access to clean data that can be read into R and python
+
+3) ATTAINABLE
+
+- Yes, because we finished :)
+
+4) RELEVANT
+
+- We looked at an alternative (Google Spreadsheet) but it didn’t work out. 
+
+5) TIME-BOUND
+
+- Saturday, we met up together during Office Hours to discuss our roles in the project and what we had accomplished
+
+
+ROADBLOCKS
+------------
+-
 
 References: 
 ------------
