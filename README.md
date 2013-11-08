@@ -12,7 +12,8 @@ Members Stats:
 | <a href="https://github.com/tandrasfay">Theresa Andrasfay </a>(tandrasfay)|4th|Stats | tandrasfay@berk |
 | <a href="https://github.com/jzhang980">  Jie Zhang</a> (jzhang980)| 4th |  Stats | jzhang980@berk |
 | <a href="https://github.com/xsherryxia">Sherry Xia </a>(xsherryxia) | 4th | Stats/Legal Studies | x_sherry_xia@berk|
-
+| <a href="https://github.com/alisha791">Alisha Agrawal </a>(alisha791) | 4th | Stats/MCB| alisha791@berk|
+| <a href="https://github.com/kt0009">Kuanwei Tseng </a>(kt0009) | 4th | Stats/Math| kt0009@berk|
 S.M.A.R.T Goals
 ===============
 1) SPECIFIC
