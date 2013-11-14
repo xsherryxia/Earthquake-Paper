@@ -18,7 +18,7 @@ S.M.A.R.T Goals
 ===============
 1) SPECIFIC
 - Figure out format requirement for the paper.
-- Keep a narrative of what every group is doing for the project and translate it into writing.
+- Keep a narrative of what every group is doing for the project.
 
 2) MEASURABLE
 - Contact Professor Stark, Aaron, Kristina, Chris, and Danielle to figure out what type of journals that we might be submitting our paper to.
